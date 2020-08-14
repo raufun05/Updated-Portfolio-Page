@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: gray;
+  margin-top: -8px;
+}
+
+
+#navhead {
+  color: #fff;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+
+.navbar-brand {
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  background: #4aaaa5;
+  margin-top: -1px;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+  background: #4aaaa5;
+}
+
+#navbar-links:hover a {
+  line-height: 0px;
+  color: #999;
+  text-decoration: none;
+  border-left: 1px solid #efefef;
+  margin-top: 30px;
+  background-color: mediumturquoise;
+}
+.footer-section {
+  padding-top: 20px;
+
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
+.main-section {
+  padding: 0px 30px 30px 30px;
+  margin: 0px 0px 30px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+.main-section h3{
+  color: seagreen;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+  line-height: 49px;
+  border-bottom: 3px solid gray;
+  font-weight: bold;
+}
+.caption {
+  width:100%;
+  bottom: 10px;
+  position: absolute;
+  background: #4aaaa5;
+}
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+  margin: 15px;
+  padding: 0;
+  max-width: 220px;  
+  max-height: 220px;
+}
+.caption h4 {
+  color: #fff;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 576px) {
+  .navbar-brand {
+    margin-left: 150px;
+    }
+  }
