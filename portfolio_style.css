@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: gray;
+  background-image: url("Assets/Images/background.png");
   margin-top: -8px;
 }
 

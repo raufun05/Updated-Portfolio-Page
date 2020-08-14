@@ -1,6 +1,6 @@
 
 body{
-    background-color: gray;
+    background-image: url("Assets/Images/background.png");
     margin-top: -8px;
 }
 #mynavbar{
@@ -36,4 +36,25 @@ body{
 .nav-link:hover{
 background-color: mediumvioletred;
 }
-
+.sidebar {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 300px;
+  }
+    
+  .social.img-responsive {
+    display: inline-block;
+    margin-left: 15px;
+  }
+  .sidebar h2 {
+    color: seagreen;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid gray;
+    text-align: center;
+  }
+  
