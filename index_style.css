@@ -7,7 +7,7 @@ body{
     border-bottom: 3px solid #ccc;
 }
 .mynav {
-    padding:15px; 
+    padding:10px; 
     margin-bottom:-8px; 
     margin-left:30px; 
     font-weight: bolder;
@@ -16,7 +16,8 @@ body{
 }
 .main-section{
     background-color:white; 
-    margin-top:25px;    
+    margin-top:25px;
+    border: 2px solid mediumslateblue;    
 }
 .main-section h4{
     color: seagreen;
@@ -54,7 +55,7 @@ body{
     }
 .sidebar {
     background: #fff;
-    border: 1px solid #ddd;
+    border: 2px solid mediumslateblue;
     margin-top: 25px;
     margin-left: 30px;
     height: 300px;

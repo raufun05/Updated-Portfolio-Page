@@ -1,19 +1,33 @@
-* {
-  box-sizing: border-box;
-}
+
 body{
   background-image: url("Assets/Images/background.png");
   margin-top: -8px;
 }
+#mynavbar{
+  border-bottom: 3px solid #ccc;
+}
+.mynav {
+  padding:15px; 
+  margin-bottom:-8px; 
+  margin-left:30px; 
+  font-weight: bolder;
+  font-size: large;
+  background-color: seagreen;
+}
+.navbar-nav{
+  font-size: medium;
+}
+.nav-link:hover{
+  background-color: mediumvioletred;
+  }
 
-
-#navhead {
+/* #navhead {
   color: #fff;
   background: #fff;
   border-bottom: 2px solid #ccc;
-}
+} */
 
-.navbar-brand {
+/* .navbar-brand {
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -38,14 +52,12 @@ body{
   border-left: 1px solid #efefef;
   margin-top: 30px;
   background-color: mediumturquoise;
-}
+} */
 .footer-section {
   padding-top: 20px;
-
-  font-size: 12px;
+  font-size: 16px;
   color: #fff;
   color: #ccc;
-  text-align: center;
   background: #666;
   border-top: 8px solid #4aaaa5;
 }
@@ -53,7 +65,7 @@ body{
   padding: 0px 30px 30px 30px;
   margin: 0px 0px 30px;
   background: #fff;
-  border: 1px solid #ddd;
+  border: 2px solid mediumslateblue;
 }
 .main-section h3{
   color: seagreen;
@@ -93,7 +105,7 @@ body{
   }
   .sidebar {
     background: #fff;
-    border: 1px solid #ddd;
+    border: 2px solid mediumslateblue;
     margin-left: 30px;
     height: 300px;
   }

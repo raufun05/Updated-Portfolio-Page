@@ -16,7 +16,8 @@ body{
 .main-section{
     background-color:white; 
     margin-top:30px; 
-    height: 500px 
+    height: 500px;
+    border: 2px solid mediumslateblue; 
 }
 .main-section h4{
     color: seagreen;
@@ -38,7 +39,7 @@ background-color: mediumvioletred;
 }
 .sidebar {
     background: #fff;
-    border: 1px solid #ddd;
+    border: 2px solid mediumslateblue;
     margin-top: 30px;
     margin-left: 30px;
     height: 300px;
@@ -57,4 +58,5 @@ background-color: mediumvioletred;
     border-bottom: 3px solid gray;
     text-align: center;
   }
+  
   
