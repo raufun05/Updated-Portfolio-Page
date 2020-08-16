@@ -24,6 +24,12 @@ If you are opting out of career services, this is _still a required assignment_.
 | Resume           | 30%    |
 | LinkedIn Profile | 10%    |
 
+The following images demonstrates the deployed application functionality:
+
+![About Me Page](./Assets/Images/AboutMe.png)
+![Contact Page](./Assets/Images/ContactPage.png)
+![Portfolio Page](./Assets/Images/portfolio.png)
+
 ## Instructions
 
 1. [Updated Portfolio](#updated-portfolio)
@@ -136,6 +142,17 @@ If you are a job-seeking student, then getting yourself marked as employer-ready
 * a statistically higher success rate in your job search
 
 So if you are going to be looking for a job at the end of bootcamp, go ahead and submit these updated items to your Career Materials Advisor (formerly, Profile Coach) via BootcampSpot.
+
+# GitHub Links
+You are required to submit the following for review:
+
+* The URL of the deployed application.
+
+https://raufun05.github.io/Updated-Portfolio-Page/
+
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+https://github.com/raufun05/Updated-Portfolio-Page
 
 ---
 
