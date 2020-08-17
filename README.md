@@ -142,6 +142,9 @@ If you are a job-seeking student, then getting yourself marked as employer-ready
 * a statistically higher success rate in your job search
 
 So if you are going to be looking for a job at the end of bootcamp, go ahead and submit these updated items to your Career Materials Advisor (formerly, Profile Coach) via BootcampSpot.
+# The technologies we used:
+•	Framework - Bootstrap framework
+•	Programing languages – html5, css3, javascript, jquery
 
 # GitHub Links
 You are required to submit the following for review:
