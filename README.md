@@ -27,7 +27,7 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Screenshots
 
-![about me](./Assets/Images/aboutme.png)
+![portfolio](./Assets/Images/aboutme.png)
 ##
 ![portfolio](./Assets/Images/portfolio.png)
 ##
