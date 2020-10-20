@@ -187,4 +187,12 @@ body{
         line-height: 49px;
         border-bottom: 3px solid gray;
         text-align: center;
-}  
+} 
+#phone{
+    font-size: xx-large;
+    padding-top: 30px;
+    color: #4aaaa5;
+} 
+.number{
+    margin-left: 10px;
+}

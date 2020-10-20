@@ -27,9 +27,9 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Screenshot
 
-![about me page](./Assets/aboutme.png)
-![about me page](./Assets/portfolio.png)
-![about me page](./Assets/ContactPage.png)
+![about me page](./Assets/Images/aboutme.png)
+![portfolio page](./Assets/Images/portfolio.png)
+![contact page](./Assets/Images/ContactPage.png)
 
 ## Instructions
 
@@ -111,6 +111,16 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 ### Updated LinkedIn Profile 
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
+## Submitted links
+
+The URL of the deployed application.
+https://raufun05.github.io/Updated-Portfolio-Page_2/
+
+The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://github.com/raufun05/Updated-Portfolio-Page_2
+
+
 
 
 - - -
