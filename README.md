@@ -28,7 +28,10 @@ If you are opting out of career services, this is *still a required assignment*.
 ## Screenshot
 
 ![about me page](./Assets/Images/aboutme.png)
-
+##
+![portfolio page](./Assets/Images/portfolio.png)
+##
+![contact page](./Assets/Images/contact.png)
 
 ## Instructions
 
