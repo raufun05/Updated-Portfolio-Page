@@ -25,13 +25,13 @@ If you are opting out of career services, this is *still a required assignment*.
 | Resume           | 10%    |
 | LinkedIn Profile | 10%    |
 
-## Screenshot
+## Screenshots
 
-![about me page](./Assets/Images/aboutme.png)
+![about me](./Assets/Images/aboutme.png)
 ##
-![portfolio page](./Assets/Images/portfolio.png)
+![portfolio](./Assets/Images/portfolio.png)
 ##
-![contact page](./Assets/Images/contact.png)
+![contact](./Assets/Images/contact.png)
 
 ## Instructions
 
