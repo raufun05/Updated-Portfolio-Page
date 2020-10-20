@@ -27,8 +27,6 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Screenshots
 
-![portfolio](./Assets/Images/aboutme.png)
-##
 ![portfolio](./Assets/Images/portfolio.png)
 ##
 ![contact](./Assets/Images/contact.png)
@@ -41,6 +39,7 @@ If you are opting out of career services, this is *still a required assignment*.
 4. [Updated LinkedIn](#updated-linkedin)
 
 ### Updated Portfolio
+![about me](./Assets/Images/aboutme.png)
 
 Your updated site should have the following content:
 
